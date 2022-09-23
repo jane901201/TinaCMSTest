@@ -1,5 +1,1 @@
-This is a hugo app which doesn't have Tina (or even a package.json) installed. To set it up, use `tina init`:
-
-```
-node ../../packages/@tinacms/cli/bin/tinacms init --static
-```
+This is a vanilla hugo site intended for demonstration purposes. Follow the guide to adding TinaCMS [here](https://tina.io/guides/tinacms/non-react-based-ssg/guide/)
